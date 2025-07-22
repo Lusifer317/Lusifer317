@@ -6,13 +6,7 @@
   <br/>
 </div>
 
-
-
-🏫 I'm studying at Dr. Babasaheb Ambedkar Technological University, Lonere (3rd year)
-
-
- 
- 🚀  I'm currently working on designing an app for KAVACH 2023
+  🚀  A Cybersecurity working proffessional and a innovative mind
  
   
 <h2 align="center"> Languages & Tools </h1>
